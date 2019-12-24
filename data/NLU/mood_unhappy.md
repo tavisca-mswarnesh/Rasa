@@ -1,0 +1,13 @@
+## intent:mood_unhappy
+
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+

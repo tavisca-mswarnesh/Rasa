@@ -1,0 +1,8 @@
+## intent:affirm
+
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+
